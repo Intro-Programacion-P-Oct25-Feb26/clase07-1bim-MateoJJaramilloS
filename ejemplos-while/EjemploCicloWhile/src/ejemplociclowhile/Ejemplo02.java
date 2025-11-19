@@ -34,3 +34,6 @@ public class Ejemplo02 {
         
     }
 }
+/*
+Este código imprime todos los números impares desde 1 hasta el límite que el usuario ingresa por teclado.
+*/
